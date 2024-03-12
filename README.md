@@ -1,1 +1,1 @@
-# minpro
+# flask-pokeapi
